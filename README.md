@@ -6,7 +6,10 @@ Putting in demos for different testing approaches in angular and meteor, cross r
 | ------------- | ------------- | --------------|---------------|------------|
 ||
 | Velocity | Jasmine |  core |
-| | Robot Framework  | | |
+| Velocity | Robot Framework  |  sudo pip install robotframework-selenium2library
+Install this package using Meteor's package management system:
+
+meteor add rsbatech:robotframework | |
 | | Cucumber | meteor add xolvio:cucumber |
 | | Protractor | 
 
