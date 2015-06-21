@@ -2,7 +2,7 @@
 Putting in demos for different testing approaches in angular and meteor, cross referencing features and likely compatibilty
 
 
-| Test Runner(s) | Testing Framework  | Meteorcentric? | | dev pref: BDD.. |
+| Test Runner(s) | Testing Framework  | Meteorcentric? | dev pref: BDD.. |
 | ------------- | ------------- | --------------|---------------|------------|
 ||
 | Velocity | Jasmine |  core |
