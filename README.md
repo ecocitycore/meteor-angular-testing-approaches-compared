@@ -6,7 +6,7 @@ Putting in demos for different testing approaches in angular and meteor, cross r
 | ------------- | ------------- | --------------|---------------|------------|
 ||
 | Velocity | Jasmine |  core |
-| Velocity | Robot Framework  |  <table><Tr><TD>sudo pip install robotframework-selenium2library meteor add rsbatech:robotframework</td></tr></table> | |
+| Velocity | Robot Framework  |  <table><Tr><TD>sudo pip install robotframework-selenium2library <BR>meteor add rsbatech:robotframework</td></tr></table> | |
 | | Cucumber | meteor add xolvio:cucumber |
 | | Protractor | 
 
