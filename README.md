@@ -8,7 +8,7 @@ Putting in demos for different testing approaches in angular and meteor, cross r
 | Velocity | Jasmine |  core |
 | Velocity | Robot Framework  |  <table><Tr><TD>sudo pip install robotframework-selenium2library <BR>meteor add rsbatech:robotframework</td></tr></table> | |
 | Velocity | Cucumber | meteor add xolvio:cucumber |
-| | Protractor | 
+| npm -i -g protractor | Protractor | 
 
 
 note: node test runners for production use
@@ -35,4 +35,4 @@ https://github.com/wardbell/bardjs - mocha chai testing
   -http://joshowens.me/cucumber-js-and-meteor-the-why-and-how-of-it/
   -http://www.mhurwi.com/a-basic-cucumber-meteor-tutorial/
   ---https://github.com/mhurwi/cucumber-meteor-tutorial
-  
+  http://www.meteortesting.com/blog/e72fe/the-7-testing-modes-of-meteor
