@@ -2,15 +2,17 @@
 Putting in demos for different testing approaches in angular and meteor, cross referencing features and likely compatibilty
 
 
-| Testing Framework  | Meteorcentric? | Proven in Angular? | Test Runner: velocity/ grunt/ gulp/ karma? | dev pref: BDD.. |
+| Test Runner(s) | Testing Framework  | Meteorcentric? | | dev pref: BDD.. |
 | ------------- | ------------- | --------------|---------------|------------|
-| Jasmine |  |
-| Robot Framework  |   ||
-| Cucumber | meteor add xolvio:cucumber |
-| Protractor | 
+||
+| Velocity | Jasmine |  core |
+| | Robot Framework  | | |
+| | Cucumber | meteor add xolvio:cucumber |
+| | Protractor | 
 
 
-
+note: node test runners for production use
+Test Runner: velocity/ grunt/ gulp/ karma 
 
 # Angular JS Testing Reference
 
@@ -30,4 +32,8 @@ Angular Unit Testing with Jasmine
     the unit tests are wtitten in Jasmine and are run by Karma using PhantomJS
    
 # Meteor Testing Reference
-
+  http://www.meteortesting.com/chapter/velocity
+  http://joshowens.me/cucumber-js-and-meteor-the-why-and-how-of-it/
+  http://www.mhurwi.com/a-basic-cucumber-meteor-tutorial/
+    https://github.com/mhurwi/cucumber-meteor-tutorial
+  
